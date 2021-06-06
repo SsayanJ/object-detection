@@ -6,7 +6,7 @@ Tools:
 Sources:  
 1 - Gilbert Tanner tutorial:
 - [Youtube tutorial](https://www.youtube.com/watch?v=cvyDYdI2nEI&ab_channel=GilbertTanner)
-- [Written tutorial](https%3A%2F%2Fgilberttanner.com%2Fblog%2Ftensorflow-object-detection-with-tensorflow-2-creating-a-custom-model)
+- [Written tutorial](https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model)
 - [Github repo](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-Train-Model)  
 
 2 - Available Tensorflow trained models:
